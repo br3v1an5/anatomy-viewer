@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.anatomy.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Avell\\Documents\\Projetos\\Anatomy\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Anatomy [Testing]"
+        }
+      }
+    }
+  ]
+}
